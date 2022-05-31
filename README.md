@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm Charles 👋
+* Machine Learning Research Assistant at DSLab, [International Research Center for Artificial Intelligence BKAI](https://bkai.ai)
+* AI Developer at [Google Developer Student Clubs x Hanoi University of Science and Technology](https://www.facebook.com/dsc.hust.2020)
+* Founder of [Humans of HUST](http://facebook.com/pageofhumanshust)
+* BSc in Data Science and Artificial Intelligence at Hanoi University of Science and Technology.
 
-<!--
-**tuanlda78202/tuanlda78202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Reach me more on [Linkedin](https://www.linkedin.com/in/tuanlda78202)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=tuanlda78202&show_icons=true&locale=en" alt="tuanlda78202">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=tuanlda78202&layout=compact">
+</p>
+
+
