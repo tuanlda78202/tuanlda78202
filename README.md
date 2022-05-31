@@ -5,7 +5,7 @@
 * BSc in Data Science and Artificial Intelligence at [Hanoi University of Science and Technology](https://www.facebook.com/dhbkhanoi/).
 
 
-Reach me more on [Linkedin](https://www.linkedin.com/in/tuanlda78202)
+Reach me more on [Linkedin.](https://www.linkedin.com/in/tuanlda78202)
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=tuanlda78202&show_icons=true&locale=en" alt="tuanlda78202">
