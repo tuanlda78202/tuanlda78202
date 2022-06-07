@@ -1,4 +1,5 @@
 ### Hi, I'm Charles 👋
+* Computer Vision Intern at [IWannaTech](https://www.iwannatech.com)
 * Machine Learning Research Assistant at [DSLab](https://bkai.ai/research/machine-learning/), [International Research Center for Artificial Intelligence BKAI](https://bkai.ai)
 * AI Developer at [Google Developer Student Clubs x Hanoi University of Science and Technology](https://www.facebook.com/dsc.hust.2020)
 * Founder of [Humans of HUST](http://facebook.com/pageofhumanshust)
