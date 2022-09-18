@@ -1,7 +1,5 @@
 ### Hi, I'm Charles 👋
 
-![Architecture](https://github.com/tuanlda78202/tuanlda78202/blob/main/bannerLinkedIn.png) 
-
 * Machine Learning Engineer at LEAN Platform
 * Computer Vision Intern at [IWannaTech](https://www.iwannatech.com)
 * Machine Learning Research Assistant at [DSLab](https://bkai.ai/research/machine-learning/), [International Research Center for Artificial Intelligence BKAI](https://bkai.ai)
