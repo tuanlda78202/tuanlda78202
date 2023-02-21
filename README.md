@@ -1,11 +1,11 @@
 ### Hi, I'm Charles 👋
 
-* Computer Vision Intern at [IWannaTech](https://www.iwannatech.com)
+* Computer Vision Engineer at [IWannaTech](https://www.iwannatech.com)
 * Machine Learning Research Assistant at [DSLab](http://ds.soict.hust.edu.vn), [International Research Center for Artificial Intelligence BKAI](https://bkai.ai)
 * AI Developer at [Google Developer Student Clubs x Hanoi University of Science and Technology](https://www.facebook.com/dsc.hust.2020)
 * Founder of [Humans of HUST](http://facebook.com/pageofhumanshust)
 * BSc in Data Science and Artificial Intelligence at [Hanoi University of Science and Technology](https://www.facebook.com/dhbkhanoi/)
-
+* Former Machine Learning Engineer at [LEAN Platform](https://www.linkedin.com/company/lean-platform/)
 
 Reach me more on [Linkedin.](https://www.linkedin.com/in/tuanlda78202)
 
