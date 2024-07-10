@@ -5,10 +5,4 @@
 
 </p>
 
-<p align="center">
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=tuanlda78202&label=Views&color=8&icon=0&pretty=true" />
-</a>
-</p>
-
 
