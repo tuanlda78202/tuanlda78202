@@ -6,13 +6,14 @@
     <!-- Light mode -->
     <source media="(prefers-color-scheme: light)"
             srcset="https://github-readme-stats-one-bice.vercel.app/api?username=tuanlda78202&hide=contribs&theme=default&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&custom_title=charles" />
-    <!-- Fallback (GitHub uses your current theme) -->
-    <img align="right" width="55%" alt="Charles's GitHub stats"
+    <!-- Fallback -->
+    <img align="right" width="50%" alt="Charles's GitHub stats"
          src="https://github-readme-stats-one-bice.vercel.app/api?username=tuanlda78202&hide=contribs&theme=default&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&custom_title=charles" />
   </picture>
 </a>
 
-### Hi, I'm Charles 👋
+**Hi, I'm Charles 👋**
+
 - My Website: [tuanlda78202.github.io](https://tuanlda78202.github.io)
 - LinkedIn: [in/tuanlda78202](https://www.linkedin.com/in/tuanlda78202)
 - X: [@tuanlda78202](https://x.com/tuanlda78202)
